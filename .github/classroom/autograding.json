@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Hello world",
+      "setup": "print(\"Hello world\")",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 2
+    }
+  ]
+}
